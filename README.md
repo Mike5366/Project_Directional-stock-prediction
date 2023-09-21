@@ -1,4 +1,4 @@
-# CSE573 Directional Stock Prediction using News and Historical
+# Directional Stock Prediction using News and Historical
 
 ## Introduction
 Predicting stock prices is a widely explored challenge within the field of machine learning, primarily because of its practical relevance. The ability to accurately forecast the future direction of a stock's price has the potential to significantly increase the financial gains of those who develop such predictive models. In this project, I investigate the Support Vector Machine(SVM) to tackle this problem. I incorporated historical stock price data and financial news articles into my analysis. My approach involves using the sentiment score for news articles that are generated using BERT, followed by training models using SVM. Ultimately, I assess the performance through 12-fold cross-validation.
